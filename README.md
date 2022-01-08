@@ -1,2 +1,2 @@
 # Petrel_Miami
-Reservoir simulation with raining data.
+Reservoir simulation with training data.
